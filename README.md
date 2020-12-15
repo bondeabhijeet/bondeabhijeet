@@ -1,5 +1,5 @@
 ### Hi there, Abhijeet here
-    *Working on some projects*
+ *Working on some projects*
 <!--
 **bondeabhijeet/bondeabhijeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
