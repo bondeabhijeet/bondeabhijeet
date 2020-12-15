@@ -1,5 +1,7 @@
 ### Hi there, Abhijeet here
  *Working on some projects*
+ 
+ [![Abhijeet's github stats](https://github-readme-stats.vercel.app/api?username=bondeabhijeet)](https://github.com/bondeabhijeet/github-readme-stats)
 <!--
 **bondeabhijeet/bondeabhijeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
