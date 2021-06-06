@@ -1,7 +1,10 @@
 ### Hi there, Abhijeet here
  *Working on some projects*
  
-**My Public Stats**
+# Like Torrents?
+  _Check out [MY WEBSITE](https://cntr.click/zH2AqbL) to know more about tools and information about torrents and from where to get them._
+# My Public Stats 
+**Done so far**
 
 <img src = "https://github-readme-stats-theta-sable.vercel.app/api?username=bondeabhijeet&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <!--
