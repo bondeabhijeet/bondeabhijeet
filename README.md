@@ -1,6 +1,7 @@
 ### Hi there, Abhijeet here
  *Working on some projects*
  
+ ![](https://komarev.com/ghpvc/?username=bondeabhijeet&color=blue)
 # Like Torrents?
   _Check out [MY WEBSITE](https://cntr.click/zH2AqbL) to know more about tools and information about torrents and from where to get them._
 # My Public Stats 
