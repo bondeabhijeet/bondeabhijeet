@@ -18,6 +18,10 @@
 
 [![Abhijeet's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bondeabhijeet&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/bondeabhijeet/github-readme-stats)
 
+**Other stats**
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bondeabhijeet&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 # Make a readme like this
 1. Refer [this](https://github.com/bondeabhijeet/bondeabhijeet/blob/main/markdown-cheatsheet-online.pdf) pdf for markdown releated syntax.
 2. Use [this](https://github.com/anuraghazra/github-readme-stats) repo for making your own dynamic cards.
