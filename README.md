@@ -2,7 +2,7 @@
  *Working on some projects*
  
 # Like Torrents?
-  _Check out [MY WEBSITE](https://cntr.click/zH2AqbL) to know more about tools and information about torrents and from where to get them._
+  _Check out [MY WEBSITE](https://bondeabhijeet.github.io/) to know more about tools and information about torrents and from where to get them._
 # My Public Stats 
 **Done so far**
 
