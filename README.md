@@ -1,44 +1,50 @@
-### Hi there, Abhijeet here
- *Working on some projects*
- 
-# Like Digital resources?
-  _Check out [MY WEBSITE](https://bondeabhijeet.github.io/) to know more about tools and information about Digital resources and from where to get them._
-# My Public Stats 
-**Done so far**
+# Nice to meet you! I'm Abhijeet Bonde 👋
 
-<img src = "https://github-readme-stats-theta-sable.vercel.app/api?username=bondeabhijeet&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<!--
-<img src = "https://github-readme-stats.vercel.app/api?username=bondeabhijeet&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
- <--
- [![Abhijeet's github stats](https://github-readme-stats.vercel.app/api?username=bondeabhijeet)](https://github.com/bondeabhijeet/github-readme-stats)
- -->
- 
-**My Language stats**
+- 🎓 University at Buffalo, New York.
+- 💻 I'm interested in software engineering, data, and machine learning.
+- 🌱 I enjoy learning by building and solving practical problems.
 
-[![Abhijeet's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bondeabhijeet&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/bondeabhijeet/github-readme-stats)
+**Let's connect**
 
-**Other stats**
+<p><a href="mailto:abhijeetbonde19@gmail.com">abhijeetbonde19@gmail.com</a>&nbsp;·&nbsp;<a href="https://www.linkedin.com/in/bondeabhijeet/">LinkedIn</a>&nbsp;·&nbsp;<a href="https://github.com/bondeabhijeet?tab=repositories">All&nbsp;projects</a>&nbsp;·&nbsp;<a href="https://github.com/pulls?q=is%3Apr+author%3Abondeabhijeet+is%3Amerged">Contributions</a></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bondeabhijeet&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+## Selected work
 
-# Make a readme like this
-1. Refer [this](https://github.com/bondeabhijeet/bondeabhijeet/blob/main/markdown-cheatsheet-online.pdf) pdf for markdown releated syntax.
-2. Use [this](https://github.com/anuraghazra/github-readme-stats) repo for making your own dynamic cards.
+| Project | What it does |
+| :--- | :--- |
+| [SmartCaption Search](https://github.com/bondeabhijeet/SmartCaptionSearch) | Semantic image search with generated captions, caption verification, and explainable retrieval scores. |
+| [EV Accident Analysis](https://github.com/bondeabhijeet/Real-time-EV-accident-analysis-and-predictive-modeling) | NYC collision data cleaning, predictive modeling, and an interactive analysis app. |
+| [PyPI GUI Package Manager](https://github.com/bondeabhijeet/Pypi-GUI-package-manager) | A desktop interface to search, install, and upgrade packages. |
+| [TCP Messenger](https://github.com/bondeabhijeet/c-socket-messenger) | A command-line chat system built with TCP sockets. |
 
-    _I've created my own vercel server to host the the app (and so is recommended as github API only allows 5K requests per hour)_
+## Open source
 
- 
-<!--
-**bondeabhijeet/bondeabhijeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <strong><a href="https://github.com/immich-app/immich/pull/28593">feat: user upload heatmap</a></strong>&nbsp;&nbsp;<a href="https://github.com/immich-app/immich/pull/28593"><img align="middle" src="https://img.shields.io/github/pulls/detail/state/immich-app/immich/28593?label=Immich%20%2328593&amp;style=flat-square" alt="Immich #28593 status" height="20"></a>
+</p>
 
-Here are some ideas to get you started:
+## Toolkit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** Python · C/C++ · TypeScript · SQL
+
+**Data & ML:** PySpark · MLlib · BLIP / CLIP · FAISS
+
+**Apps & UI:** FastAPI · Streamlit · Tkinter · Svelte
+
+## GitHub at a glance
+
+<a href="https://github.com/bondeabhijeet?tab=repositories">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=bondeabhijeet&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;disable_animations=true&amp;card_width=480&amp;bg_color=00000000&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=58a6ff&amp;custom_title=Public%20GitHub%20activity">
+    <img src="https://github-stats-extended.vercel.app/api?username=bondeabhijeet&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;disable_animations=true&amp;card_width=480&amp;bg_color=00000000&amp;title_color=0969da&amp;text_color=1f2328&amp;icon_color=0969da&amp;custom_title=Public%20GitHub%20activity" alt="Abhijeet's public GitHub activity statistics" width="480">
+  </picture>
+</a>
+
+## Contribution streak
+
+<a href="https://github.com/bondeabhijeet">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=bondeabhijeet&amp;mode=weekly&amp;theme=github-dark-blue&amp;hide_border=true&amp;disable_animations=true">
+    <img src="https://streak-stats.demolab.com/?user=bondeabhijeet&amp;mode=weekly&amp;theme=default&amp;hide_border=true&amp;disable_animations=true" alt="Abhijeet's weekly GitHub contribution streak" width="480">
+  </picture>
+</a>
