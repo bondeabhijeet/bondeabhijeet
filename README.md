@@ -6,7 +6,12 @@
 
 **Let's connect**
 
-<p><a href="mailto:abhijeetbonde19@gmail.com">abhijeetbonde19@gmail.com</a>&nbsp;·&nbsp;<a href="https://www.linkedin.com/in/bondeabhijeet/">LinkedIn</a>&nbsp;·&nbsp;<a href="https://github.com/bondeabhijeet?tab=repositories">All&nbsp;projects</a>&nbsp;·&nbsp;<a href="https://github.com/pulls?q=is%3Apr+author%3Abondeabhijeet+is%3Amerged">Contributions</a></p>
+<p>
+  <a href="mailto:abhijeetbonde19@gmail.com"><img align="absmiddle" src="assets/links/email.svg" alt="Email" width="56" height="20"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/bondeabhijeet/"><img align="absmiddle" src="assets/links/linkedin.svg" alt="LinkedIn" width="75" height="20"></a>&nbsp;&nbsp;
+  <a href="https://github.com/bondeabhijeet?tab=repositories"><img align="absmiddle" src="assets/links/projects.svg" alt="All projects" width="90" height="20"></a>&nbsp;&nbsp;
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Abondeabhijeet+is%3Amerged"><img align="absmiddle" src="assets/links/contributions.svg" alt="Contributions" width="104" height="20"></a>
+</p>
 
 ## Selected work
 
